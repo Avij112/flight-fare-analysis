@@ -1,0 +1,115 @@
+Route,Airline,Year,Direction,Price
+Delhi ↔ Mumbai,IndiGo,2022,→,4473.74
+Delhi ↔ Mumbai,IndiGo,2022,←,3935.42
+Delhi ↔ Bangalore,IndiGo,2022,→,6084.36
+Delhi ↔ Bangalore,IndiGo,2022,←,6273.5
+Delhi ↔ Hyderabad,IndiGo,2022,→,4820.53
+Delhi ↔ Hyderabad,IndiGo,2022,←,5169.42
+Mumbai ↔ Bangalore,IndiGo,2022,→,4635.51
+Mumbai ↔ Bangalore,IndiGo,2022,←,5112.27
+Mumbai ↔ Hyderabad,IndiGo,2022,→,5870.95
+Mumbai ↔ Hyderabad,IndiGo,2022,←,6081.03
+Bangalore ↔ Hyderabad,IndiGo,2022,→,3220.66
+Bangalore ↔ Hyderabad,IndiGo,2022,←,3199.43
+Delhi ↔ Mumbai,Vistara,2022,→,6983.66
+Delhi ↔ Mumbai,Vistara,2022,←,6921.75
+Delhi ↔ Bangalore,Vistara,2022,→,6385.01
+Delhi ↔ Bangalore,Vistara,2022,←,6505.51
+Delhi ↔ Hyderabad,Vistara,2022,→,6772.03
+Delhi ↔ Hyderabad,Vistara,2022,←,6868.4
+Mumbai ↔ Bangalore,Vistara,2022,→,7820.2
+Mumbai ↔ Bangalore,Vistara,2022,←,7691.23
+Mumbai ↔ Hyderabad,Vistara,2022,→,6231.47
+Mumbai ↔ Hyderabad,Vistara,2022,←,6556.25
+Bangalore ↔ Hyderabad,Vistara,2022,→,7607.46
+Bangalore ↔ Hyderabad,Vistara,2022,←,7793.95
+Delhi ↔ Mumbai,Air India,2022,→,6998.1
+Delhi ↔ Mumbai,Air India,2022,←,6786.98
+Delhi ↔ Bangalore,Air India,2022,→,6929.02
+Delhi ↔ Bangalore,Air India,2022,←,6787.89
+Delhi ↔ Hyderabad,Air India,2022,→,6470.29
+Delhi ↔ Hyderabad,Air India,2022,←,6654.19
+Mumbai ↔ Bangalore,Air India,2022,→,7689.14
+Mumbai ↔ Bangalore,Air India,2022,←,7342.07
+Mumbai ↔ Hyderabad,Air India,2022,→,6100.05
+Mumbai ↔ Hyderabad,Air India,2022,←,6488.02
+Bangalore ↔ Hyderabad,Air India,2022,→,8107.72
+Bangalore ↔ Hyderabad,Air India,2022,←,7570.21
+Delhi ↔ Mumbai,SpiceJet,2022,→,4628.25
+Delhi ↔ Mumbai,SpiceJet,2022,←,4548.81
+Delhi ↔ Bangalore,SpiceJet,2022,→,6679.89
+Delhi ↔ Bangalore,SpiceJet,2022,←,6901.62
+Delhi ↔ Hyderabad,SpiceJet,2022,→,5831.11
+Delhi ↔ Hyderabad,SpiceJet,2022,←,5813.81
+Mumbai ↔ Bangalore,SpiceJet,2022,→,5595.71
+Mumbai ↔ Bangalore,SpiceJet,2022,←,6058.64
+Bangalore ↔ Hyderabad,SpiceJet,2022,→,4338.0
+Delhi ↔ Mumbai,AirAsia,2022,→,3981.19
+Delhi ↔ Mumbai,AirAsia,2022,←,4025.71
+Delhi ↔ Bangalore,AirAsia,2022,→,5316.4
+Delhi ↔ Bangalore,AirAsia,2022,←,4807.09
+Delhi ↔ Hyderabad,AirAsia,2022,→,4733.34
+Delhi ↔ Hyderabad,AirAsia,2022,←,3960.02
+Mumbai ↔ Bangalore,AirAsia,2022,→,3580.89
+Mumbai ↔ Bangalore,AirAsia,2022,←,3342.39
+Mumbai ↔ Hyderabad,AirAsia,2022,→,3068.7
+Mumbai ↔ Hyderabad,AirAsia,2022,←,2994.23
+Bangalore ↔ Hyderabad,AirAsia,2022,→,2931.49
+Bangalore ↔ Hyderabad,AirAsia,2022,←,3135.87
+Delhi ↔ Mumbai,IndiGo,2023,→,4518.51
+Delhi ↔ Mumbai,IndiGo,2023,←,3974.53
+Delhi ↔ Bangalore,IndiGo,2023,→,6145.19
+Delhi ↔ Bangalore,IndiGo,2023,←,6336.26
+Delhi ↔ Hyderabad,IndiGo,2023,→,4868.83
+Delhi ↔ Hyderabad,IndiGo,2023,←,5221.09
+Mumbai ↔ Bangalore,IndiGo,2023,→,4681.83
+Mumbai ↔ Bangalore,IndiGo,2023,←,5163.46
+Mumbai ↔ Hyderabad,IndiGo,2023,→,5929.7
+Mumbai ↔ Hyderabad,IndiGo,2023,←,6141.89
+Bangalore ↔ Hyderabad,IndiGo,2023,→,3252.8
+Bangalore ↔ Hyderabad,IndiGo,2023,←,3231.64
+Delhi ↔ Mumbai,Vistara,2023,→,7053.54
+Delhi ↔ Mumbai,Vistara,2023,←,6990.78
+Delhi ↔ Bangalore,Vistara,2023,→,6448.94
+Delhi ↔ Bangalore,Vistara,2023,←,6570.47
+Delhi ↔ Hyderabad,Vistara,2023,→,6839.85
+Delhi ↔ Hyderabad,Vistara,2023,←,6937.15
+Mumbai ↔ Bangalore,Vistara,2023,→,7898.58
+Mumbai ↔ Bangalore,Vistara,2023,←,7768.28
+Mumbai ↔ Hyderabad,Vistara,2023,→,6293.86
+Mumbai ↔ Hyderabad,Vistara,2023,←,6621.91
+Bangalore ↔ Hyderabad,Vistara,2023,→,7683.48
+Bangalore ↔ Hyderabad,Vistara,2023,←,7871.87
+Delhi ↔ Mumbai,Air India,2023,→,7068.16
+Delhi ↔ Mumbai,Air India,2023,←,6854.82
+Delhi ↔ Bangalore,Air India,2023,→,6998.18
+Delhi ↔ Bangalore,Air India,2023,←,6855.78
+Delhi ↔ Hyderabad,Air India,2023,→,6535.0
+Delhi ↔ Hyderabad,Air India,2023,←,6720.73
+Mumbai ↔ Bangalore,Air India,2023,→,7766.03
+Mumbai ↔ Bangalore,Air India,2023,←,7415.67
+Mumbai ↔ Hyderabad,Air India,2023,→,6161.16
+Mumbai ↔ Hyderabad,Air India,2023,←,6553.02
+Bangalore ↔ Hyderabad,Air India,2023,→,8188.82
+Bangalore ↔ Hyderabad,Air India,2023,←,7645.92
+Delhi ↔ Mumbai,SpiceJet,2023,→,4674.67
+Delhi ↔ Mumbai,SpiceJet,2023,←,4594.09
+Delhi ↔ Bangalore,SpiceJet,2023,→,6746.61
+Delhi ↔ Bangalore,SpiceJet,2023,←,6970.73
+Delhi ↔ Hyderabad,SpiceJet,2023,→,5889.49
+Delhi ↔ Hyderabad,SpiceJet,2023,←,5871.92
+Mumbai ↔ Bangalore,SpiceJet,2023,→,5651.56
+Mumbai ↔ Bangalore,SpiceJet,2023,←,6119.28
+Bangalore ↔ Hyderabad,SpiceJet,2023,→,4381.0
+Delhi ↔ Mumbai,AirAsia,2023,→,4020.89
+Delhi ↔ Mumbai,AirAsia,2023,←,4065.7
+Delhi ↔ Bangalore,AirAsia,2023,→,5369.58
+Delhi ↔ Bangalore,AirAsia,2023,←,4855.13
+Delhi ↔ Hyderabad,AirAsia,2023,→,4780.96
+Delhi ↔ Hyderabad,AirAsia,2023,←,3999.39
+Mumbai ↔ Bangalore,AirAsia,2023,→,3616.77
+Mumbai ↔ Bangalore,AirAsia,2023,←,3375.84
+Mumbai ↔ Hyderabad,AirAsia,2023,→,3099.44
+Mumbai ↔ Hyderabad,AirAsia,2023,←,3024.48
+Bangalore ↔ Hyderabad,AirAsia,2023,→,2960.66
+Bangalore ↔ Hyderabad,AirAsia,2023,←,3167.23
