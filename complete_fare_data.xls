@@ -1,0 +1,490 @@
+Route,Airline,Year,Direction,Price,Estimated,Base_Used
+Bangalore ↔ Hyderabad,Air India,2016,←,8795.45,True,avg
+Bangalore ↔ Hyderabad,Air India,2017,←,8531.59,True,avg
+Bangalore ↔ Hyderabad,Air India,2018,←,8179.77,True,avg
+Bangalore ↔ Hyderabad,Air India,2019,←,7915.91,True,avg
+Bangalore ↔ Hyderabad,Air India,2020,←,5717.04,True,avg
+Bangalore ↔ Hyderabad,Air India,2021,←,7212.27,True,avg
+Bangalore ↔ Hyderabad,Air India,2022,←,7570.21,False,
+Bangalore ↔ Hyderabad,Air India,2023,←,7645.92,False,
+Bangalore ↔ Hyderabad,Air India,2024,←,6860.45,True,avg
+Bangalore ↔ Hyderabad,Air India,2016,→,9419.97,True,avg
+Bangalore ↔ Hyderabad,Air India,2017,→,9137.37,True,avg
+Bangalore ↔ Hyderabad,Air India,2018,→,8760.57,True,avg
+Bangalore ↔ Hyderabad,Air India,2019,→,8477.97,True,avg
+Bangalore ↔ Hyderabad,Air India,2020,→,6122.98,True,avg
+Bangalore ↔ Hyderabad,Air India,2021,→,7724.37,True,avg
+Bangalore ↔ Hyderabad,Air India,2022,→,8107.72,False,
+Bangalore ↔ Hyderabad,Air India,2023,→,8188.82,False,
+Bangalore ↔ Hyderabad,Air India,2024,→,7347.57,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2016,←,3643.41,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2017,←,3534.11,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2018,←,3388.37,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2019,←,3279.07,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2020,←,2368.22,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2021,←,2987.6,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2022,←,3135.87,False,
+Bangalore ↔ Hyderabad,AirAsia,2023,←,3167.23,False,
+Bangalore ↔ Hyderabad,AirAsia,2016,→,3405.87,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2017,→,3303.69,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2018,→,3167.46,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2019,→,3065.28,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2020,→,2213.81,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2021,→,2792.81,True,avg
+Bangalore ↔ Hyderabad,AirAsia,2022,→,2931.49,False,
+Bangalore ↔ Hyderabad,AirAsia,2023,→,2960.66,False,
+Bangalore ↔ Hyderabad,IndiGo,2016,←,3717.38,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2017,←,3605.86,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2018,←,3457.16,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2019,←,3345.64,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2020,←,2416.3,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2021,←,3048.25,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2022,←,3199.43,False,
+Bangalore ↔ Hyderabad,IndiGo,2023,←,3231.64,False,
+Bangalore ↔ Hyderabad,IndiGo,2024,←,2899.56,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2016,→,3741.88,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2017,→,3629.63,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2018,→,3479.95,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2019,→,3367.7,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2020,→,2432.22,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2021,→,3068.35,True,avg
+Bangalore ↔ Hyderabad,IndiGo,2022,→,3220.66,False,
+Bangalore ↔ Hyderabad,IndiGo,2023,→,3252.8,False,
+Bangalore ↔ Hyderabad,IndiGo,2024,→,2918.67,True,avg
+Bangalore ↔ Hyderabad,SpiceJet,2016,→,5039.88,True,avg
+Bangalore ↔ Hyderabad,SpiceJet,2017,→,4888.69,True,avg
+Bangalore ↔ Hyderabad,SpiceJet,2018,→,4687.09,True,avg
+Bangalore ↔ Hyderabad,SpiceJet,2019,→,4535.9,True,avg
+Bangalore ↔ Hyderabad,SpiceJet,2020,→,3275.92,True,avg
+Bangalore ↔ Hyderabad,SpiceJet,2021,→,4132.71,True,avg
+Bangalore ↔ Hyderabad,SpiceJet,2022,→,4338.0,False,
+Bangalore ↔ Hyderabad,SpiceJet,2023,→,4381.0,False,
+Bangalore ↔ Hyderabad,SpiceJet,2024,→,3931.11,True,avg
+Bangalore ↔ Hyderabad,Vistara,2016,←,9055.39,True,avg
+Bangalore ↔ Hyderabad,Vistara,2017,←,8783.73,True,avg
+Bangalore ↔ Hyderabad,Vistara,2018,←,8421.51,True,avg
+Bangalore ↔ Hyderabad,Vistara,2019,←,8149.85,True,avg
+Bangalore ↔ Hyderabad,Vistara,2020,←,5886.0,True,avg
+Bangalore ↔ Hyderabad,Vistara,2021,←,7425.42,True,avg
+Bangalore ↔ Hyderabad,Vistara,2022,←,7793.95,False,
+Bangalore ↔ Hyderabad,Vistara,2023,←,7871.87,False,
+Bangalore ↔ Hyderabad,Vistara,2016,→,8838.69,True,avg
+Bangalore ↔ Hyderabad,Vistara,2017,→,8573.53,True,avg
+Bangalore ↔ Hyderabad,Vistara,2018,→,8219.99,True,avg
+Bangalore ↔ Hyderabad,Vistara,2019,→,7954.82,True,avg
+Bangalore ↔ Hyderabad,Vistara,2020,→,5745.15,True,avg
+Bangalore ↔ Hyderabad,Vistara,2021,→,7247.73,True,avg
+Bangalore ↔ Hyderabad,Vistara,2022,→,7607.46,False,
+Bangalore ↔ Hyderabad,Vistara,2023,→,7683.48,False,
+Delhi ↔ Bangalore,Air India,2016,←,7886.51,True,avg
+Delhi ↔ Bangalore,Air India,2017,←,7649.92,True,avg
+Delhi ↔ Bangalore,Air India,2018,←,7334.46,True,avg
+Delhi ↔ Bangalore,Air India,2019,←,7097.86,True,avg
+Delhi ↔ Bangalore,Air India,2020,←,5126.23,True,avg
+Delhi ↔ Bangalore,Air India,2021,←,6466.94,True,avg
+Delhi ↔ Bangalore,Air India,2022,←,6787.89,False,
+Delhi ↔ Bangalore,Air India,2023,←,6855.78,False,
+Delhi ↔ Bangalore,Air India,2024,←,6151.48,True,avg
+Delhi ↔ Bangalore,Air India,2016,→,8050.4,True,avg
+Delhi ↔ Bangalore,Air India,2017,→,7808.89,True,avg
+Delhi ↔ Bangalore,Air India,2018,→,7486.88,True,avg
+Delhi ↔ Bangalore,Air India,2019,→,7245.36,True,avg
+Delhi ↔ Bangalore,Air India,2020,→,5232.76,True,avg
+Delhi ↔ Bangalore,Air India,2021,→,6601.33,True,avg
+Delhi ↔ Bangalore,Air India,2022,→,6929.02,False,
+Delhi ↔ Bangalore,Air India,2023,→,6998.18,False,
+Delhi ↔ Bangalore,Air India,2024,→,6279.32,True,avg
+Delhi ↔ Bangalore,AirAsia,2016,←,5585.1,True,avg
+Delhi ↔ Bangalore,AirAsia,2017,←,5417.55,True,avg
+Delhi ↔ Bangalore,AirAsia,2018,←,5194.14,True,avg
+Delhi ↔ Bangalore,AirAsia,2019,←,5026.59,True,avg
+Delhi ↔ Bangalore,AirAsia,2020,←,3630.31,True,avg
+Delhi ↔ Bangalore,AirAsia,2021,←,4579.78,True,avg
+Delhi ↔ Bangalore,AirAsia,2022,←,4807.09,False,
+Delhi ↔ Bangalore,AirAsia,2023,←,4855.13,False,
+Delhi ↔ Bangalore,AirAsia,2016,→,6176.87,True,avg
+Delhi ↔ Bangalore,AirAsia,2017,→,5991.56,True,avg
+Delhi ↔ Bangalore,AirAsia,2018,→,5744.49,True,avg
+Delhi ↔ Bangalore,AirAsia,2019,→,5559.18,True,avg
+Delhi ↔ Bangalore,AirAsia,2020,→,4014.96,True,avg
+Delhi ↔ Bangalore,AirAsia,2021,→,5065.03,True,avg
+Delhi ↔ Bangalore,AirAsia,2022,→,5316.4,False,
+Delhi ↔ Bangalore,AirAsia,2023,→,5369.58,False,
+Delhi ↔ Bangalore,IndiGo,2016,←,7288.88,True,avg
+Delhi ↔ Bangalore,IndiGo,2017,←,7070.21,True,avg
+Delhi ↔ Bangalore,IndiGo,2018,←,6778.66,True,avg
+Delhi ↔ Bangalore,IndiGo,2019,←,6559.99,True,avg
+Delhi ↔ Bangalore,IndiGo,2020,←,4737.77,True,avg
+Delhi ↔ Bangalore,IndiGo,2021,←,5976.88,True,avg
+Delhi ↔ Bangalore,IndiGo,2022,←,6273.5,False,
+Delhi ↔ Bangalore,IndiGo,2023,←,6336.26,False,
+Delhi ↔ Bangalore,IndiGo,2024,←,5685.33,True,avg
+Delhi ↔ Bangalore,IndiGo,2016,→,7069.1,True,avg
+Delhi ↔ Bangalore,IndiGo,2017,→,6857.03,True,avg
+Delhi ↔ Bangalore,IndiGo,2018,→,6574.27,True,avg
+Delhi ↔ Bangalore,IndiGo,2019,→,6362.19,True,avg
+Delhi ↔ Bangalore,IndiGo,2020,→,4594.92,True,avg
+Delhi ↔ Bangalore,IndiGo,2021,→,5796.67,True,avg
+Delhi ↔ Bangalore,IndiGo,2022,→,6084.36,False,
+Delhi ↔ Bangalore,IndiGo,2023,→,6145.19,False,
+Delhi ↔ Bangalore,IndiGo,2024,→,5513.9,True,avg
+Delhi ↔ Bangalore,SpiceJet,2016,←,8018.7,True,avg
+Delhi ↔ Bangalore,SpiceJet,2017,←,7778.14,True,avg
+Delhi ↔ Bangalore,SpiceJet,2018,←,7457.39,True,avg
+Delhi ↔ Bangalore,SpiceJet,2019,←,7216.83,True,avg
+Delhi ↔ Bangalore,SpiceJet,2020,←,5212.15,True,avg
+Delhi ↔ Bangalore,SpiceJet,2021,←,6575.33,True,avg
+Delhi ↔ Bangalore,SpiceJet,2022,←,6901.62,False,
+Delhi ↔ Bangalore,SpiceJet,2023,←,6970.73,False,
+Delhi ↔ Bangalore,SpiceJet,2024,←,6254.59,True,avg
+Delhi ↔ Bangalore,SpiceJet,2016,→,7760.98,True,avg
+Delhi ↔ Bangalore,SpiceJet,2017,→,7528.15,True,avg
+Delhi ↔ Bangalore,SpiceJet,2018,→,7217.71,True,avg
+Delhi ↔ Bangalore,SpiceJet,2019,→,6984.88,True,avg
+Delhi ↔ Bangalore,SpiceJet,2020,→,5044.64,True,avg
+Delhi ↔ Bangalore,SpiceJet,2021,→,6364.01,True,avg
+Delhi ↔ Bangalore,SpiceJet,2022,→,6679.89,False,
+Delhi ↔ Bangalore,SpiceJet,2023,→,6746.61,False,
+Delhi ↔ Bangalore,SpiceJet,2024,→,6053.57,True,avg
+Delhi ↔ Bangalore,Vistara,2016,←,7558.37,True,avg
+Delhi ↔ Bangalore,Vistara,2017,←,7331.62,True,avg
+Delhi ↔ Bangalore,Vistara,2018,←,7029.28,True,avg
+Delhi ↔ Bangalore,Vistara,2019,←,6802.53,True,avg
+Delhi ↔ Bangalore,Vistara,2020,←,4912.94,True,avg
+Delhi ↔ Bangalore,Vistara,2021,←,6197.86,True,avg
+Delhi ↔ Bangalore,Vistara,2022,←,6505.51,False,
+Delhi ↔ Bangalore,Vistara,2023,←,6570.47,False,
+Delhi ↔ Bangalore,Vistara,2016,→,7418.47,True,avg
+Delhi ↔ Bangalore,Vistara,2017,→,7195.91,True,avg
+Delhi ↔ Bangalore,Vistara,2018,→,6899.18,True,avg
+Delhi ↔ Bangalore,Vistara,2019,→,6676.62,True,avg
+Delhi ↔ Bangalore,Vistara,2020,→,4822.0,True,avg
+Delhi ↔ Bangalore,Vistara,2021,→,6083.14,True,avg
+Delhi ↔ Bangalore,Vistara,2022,→,6385.01,False,
+Delhi ↔ Bangalore,Vistara,2023,→,6448.94,False,
+Delhi ↔ Hyderabad,Air India,2016,←,7731.17,True,avg
+Delhi ↔ Hyderabad,Air India,2017,←,7499.23,True,avg
+Delhi ↔ Hyderabad,Air India,2018,←,7189.99,True,avg
+Delhi ↔ Hyderabad,Air India,2019,←,6958.05,True,avg
+Delhi ↔ Hyderabad,Air India,2020,←,5025.26,True,avg
+Delhi ↔ Hyderabad,Air India,2021,←,6339.56,True,avg
+Delhi ↔ Hyderabad,Air India,2022,←,6654.19,False,
+Delhi ↔ Hyderabad,Air India,2023,←,6720.73,False,
+Delhi ↔ Hyderabad,Air India,2024,←,6030.31,True,avg
+Delhi ↔ Hyderabad,Air India,2016,→,7517.51,True,avg
+Delhi ↔ Hyderabad,Air India,2017,→,7291.98,True,avg
+Delhi ↔ Hyderabad,Air India,2018,→,6991.28,True,avg
+Delhi ↔ Hyderabad,Air India,2019,→,6765.76,True,avg
+Delhi ↔ Hyderabad,Air India,2020,→,4886.38,True,avg
+Delhi ↔ Hyderabad,Air India,2021,→,6164.36,True,avg
+Delhi ↔ Hyderabad,Air India,2022,→,6470.29,False,
+Delhi ↔ Hyderabad,Air India,2023,→,6535.0,False,
+Delhi ↔ Hyderabad,Air India,2024,→,5863.66,True,avg
+Delhi ↔ Hyderabad,AirAsia,2016,←,4600.82,True,avg
+Delhi ↔ Hyderabad,AirAsia,2017,←,4462.79,True,avg
+Delhi ↔ Hyderabad,AirAsia,2018,←,4278.76,True,avg
+Delhi ↔ Hyderabad,AirAsia,2019,←,4140.73,True,avg
+Delhi ↔ Hyderabad,AirAsia,2020,←,2990.53,True,avg
+Delhi ↔ Hyderabad,AirAsia,2021,←,3772.67,True,avg
+Delhi ↔ Hyderabad,AirAsia,2022,←,3960.02,False,
+Delhi ↔ Hyderabad,AirAsia,2023,←,3999.39,False,
+Delhi ↔ Hyderabad,AirAsia,2016,→,5499.6,True,avg
+Delhi ↔ Hyderabad,AirAsia,2017,→,5334.61,True,avg
+Delhi ↔ Hyderabad,AirAsia,2018,→,5114.62,True,avg
+Delhi ↔ Hyderabad,AirAsia,2019,→,4949.64,True,avg
+Delhi ↔ Hyderabad,AirAsia,2020,→,3574.74,True,avg
+Delhi ↔ Hyderabad,AirAsia,2021,→,4509.67,True,avg
+Delhi ↔ Hyderabad,AirAsia,2022,→,4733.34,False,
+Delhi ↔ Hyderabad,AirAsia,2023,→,4780.96,False,
+Delhi ↔ Hyderabad,IndiGo,2016,←,6006.08,True,avg
+Delhi ↔ Hyderabad,IndiGo,2017,←,5825.89,True,avg
+Delhi ↔ Hyderabad,IndiGo,2018,←,5585.65,True,avg
+Delhi ↔ Hyderabad,IndiGo,2019,←,5405.47,True,avg
+Delhi ↔ Hyderabad,IndiGo,2020,←,3903.95,True,avg
+Delhi ↔ Hyderabad,IndiGo,2021,←,4924.98,True,avg
+Delhi ↔ Hyderabad,IndiGo,2022,←,5169.42,False,
+Delhi ↔ Hyderabad,IndiGo,2023,←,5221.09,False,
+Delhi ↔ Hyderabad,IndiGo,2024,←,4684.74,True,avg
+Delhi ↔ Hyderabad,IndiGo,2016,→,5600.79,True,avg
+Delhi ↔ Hyderabad,IndiGo,2017,→,5432.76,True,avg
+Delhi ↔ Hyderabad,IndiGo,2018,→,5208.73,True,avg
+Delhi ↔ Hyderabad,IndiGo,2019,→,5040.71,True,avg
+Delhi ↔ Hyderabad,IndiGo,2020,→,3640.51,True,avg
+Delhi ↔ Hyderabad,IndiGo,2021,→,4592.64,True,avg
+Delhi ↔ Hyderabad,IndiGo,2022,→,4820.53,False,
+Delhi ↔ Hyderabad,IndiGo,2023,→,4868.83,False,
+Delhi ↔ Hyderabad,IndiGo,2024,→,4368.61,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2016,←,6754.76,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2017,←,6552.11,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2018,←,6281.92,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2019,←,6079.28,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2020,←,4390.59,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2021,←,5538.9,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2022,←,5813.81,False,
+Delhi ↔ Hyderabad,SpiceJet,2023,←,5871.92,False,
+Delhi ↔ Hyderabad,SpiceJet,2024,←,5268.71,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2016,→,6774.91,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2017,→,6571.67,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2018,→,6300.67,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2019,→,6097.42,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2020,→,4403.69,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2021,→,5555.43,True,avg
+Delhi ↔ Hyderabad,SpiceJet,2022,→,5831.11,False,
+Delhi ↔ Hyderabad,SpiceJet,2023,→,5889.49,False,
+Delhi ↔ Hyderabad,SpiceJet,2024,→,5284.43,True,avg
+Delhi ↔ Hyderabad,Vistara,2016,←,7980.09,True,avg
+Delhi ↔ Hyderabad,Vistara,2017,←,7740.68,True,avg
+Delhi ↔ Hyderabad,Vistara,2018,←,7421.48,True,avg
+Delhi ↔ Hyderabad,Vistara,2019,←,7182.08,True,avg
+Delhi ↔ Hyderabad,Vistara,2020,←,5187.06,True,avg
+Delhi ↔ Hyderabad,Vistara,2021,←,6543.67,True,avg
+Delhi ↔ Hyderabad,Vistara,2022,←,6868.4,False,
+Delhi ↔ Hyderabad,Vistara,2023,←,6937.15,False,
+Delhi ↔ Hyderabad,Vistara,2016,→,7868.14,True,avg
+Delhi ↔ Hyderabad,Vistara,2017,→,7632.09,True,avg
+Delhi ↔ Hyderabad,Vistara,2018,→,7317.37,True,avg
+Delhi ↔ Hyderabad,Vistara,2019,→,7081.32,True,avg
+Delhi ↔ Hyderabad,Vistara,2020,→,5114.29,True,avg
+Delhi ↔ Hyderabad,Vistara,2021,→,6451.87,True,avg
+Delhi ↔ Hyderabad,Vistara,2022,→,6772.03,False,
+Delhi ↔ Hyderabad,Vistara,2023,→,6839.85,False,
+Delhi ↔ Mumbai,Air India,2016,←,7885.43,True,avg
+Delhi ↔ Mumbai,Air India,2017,←,7648.87,True,avg
+Delhi ↔ Mumbai,Air India,2018,←,7333.45,True,avg
+Delhi ↔ Mumbai,Air India,2019,←,7096.89,True,avg
+Delhi ↔ Mumbai,Air India,2020,←,5125.53,True,avg
+Delhi ↔ Mumbai,Air India,2021,←,6466.06,True,avg
+Delhi ↔ Mumbai,Air India,2022,←,6786.98,False,
+Delhi ↔ Mumbai,Air India,2023,←,6854.82,False,
+Delhi ↔ Mumbai,Air India,2024,←,6150.64,True,avg
+Delhi ↔ Mumbai,Air India,2016,→,8130.79,True,avg
+Delhi ↔ Mumbai,Air India,2017,→,7886.86,True,avg
+Delhi ↔ Mumbai,Air India,2018,→,7561.63,True,avg
+Delhi ↔ Mumbai,Air India,2019,→,7317.71,True,avg
+Delhi ↔ Mumbai,Air India,2020,→,5285.01,True,avg
+Delhi ↔ Mumbai,Air India,2021,→,6667.24,True,avg
+Delhi ↔ Mumbai,Air India,2022,→,6998.1,False,
+Delhi ↔ Mumbai,Air India,2023,→,7068.16,False,
+Delhi ↔ Mumbai,Air India,2024,→,6342.01,True,avg
+Delhi ↔ Mumbai,AirAsia,2016,←,4677.12,True,avg
+Delhi ↔ Mumbai,AirAsia,2017,←,4536.8,True,avg
+Delhi ↔ Mumbai,AirAsia,2018,←,4349.72,True,avg
+Delhi ↔ Mumbai,AirAsia,2019,←,4209.4,True,avg
+Delhi ↔ Mumbai,AirAsia,2020,←,3040.13,True,avg
+Delhi ↔ Mumbai,AirAsia,2021,←,3835.23,True,avg
+Delhi ↔ Mumbai,AirAsia,2022,←,4025.71,False,
+Delhi ↔ Mumbai,AirAsia,2023,←,4065.7,False,
+Delhi ↔ Mumbai,AirAsia,2016,→,4625.48,True,avg
+Delhi ↔ Mumbai,AirAsia,2017,→,4486.72,True,avg
+Delhi ↔ Mumbai,AirAsia,2018,→,4301.7,True,avg
+Delhi ↔ Mumbai,AirAsia,2019,→,4162.93,True,avg
+Delhi ↔ Mumbai,AirAsia,2020,→,3006.56,True,avg
+Delhi ↔ Mumbai,AirAsia,2021,→,3792.89,True,avg
+Delhi ↔ Mumbai,AirAsia,2022,→,3981.19,False,
+Delhi ↔ Mumbai,AirAsia,2023,→,4020.89,False,
+Delhi ↔ Mumbai,IndiGo,2016,←,4572.23,True,avg
+Delhi ↔ Mumbai,IndiGo,2017,←,4435.06,True,avg
+Delhi ↔ Mumbai,IndiGo,2018,←,4252.17,True,avg
+Delhi ↔ Mumbai,IndiGo,2019,←,4115.0,True,avg
+Delhi ↔ Mumbai,IndiGo,2020,←,2971.95,True,avg
+Delhi ↔ Mumbai,IndiGo,2021,←,3749.22,True,avg
+Delhi ↔ Mumbai,IndiGo,2022,←,3935.42,False,
+Delhi ↔ Mumbai,IndiGo,2023,←,3974.53,False,
+Delhi ↔ Mumbai,IndiGo,2024,←,3566.34,True,avg
+Delhi ↔ Mumbai,IndiGo,2016,→,5197.83,True,avg
+Delhi ↔ Mumbai,IndiGo,2017,→,5041.9,True,avg
+Delhi ↔ Mumbai,IndiGo,2018,→,4833.98,True,avg
+Delhi ↔ Mumbai,IndiGo,2019,→,4678.05,True,avg
+Delhi ↔ Mumbai,IndiGo,2020,→,3378.59,True,avg
+Delhi ↔ Mumbai,IndiGo,2021,→,4262.22,True,avg
+Delhi ↔ Mumbai,IndiGo,2022,→,4473.74,False,
+Delhi ↔ Mumbai,IndiGo,2023,→,4518.51,False,
+Delhi ↔ Mumbai,IndiGo,2024,→,4054.31,True,avg
+Delhi ↔ Mumbai,SpiceJet,2016,←,5284.91,True,avg
+Delhi ↔ Mumbai,SpiceJet,2017,←,5126.37,True,avg
+Delhi ↔ Mumbai,SpiceJet,2018,←,4914.97,True,avg
+Delhi ↔ Mumbai,SpiceJet,2019,←,4756.42,True,avg
+Delhi ↔ Mumbai,SpiceJet,2020,←,3435.19,True,avg
+Delhi ↔ Mumbai,SpiceJet,2021,←,4333.63,True,avg
+Delhi ↔ Mumbai,SpiceJet,2022,←,4548.81,False,
+Delhi ↔ Mumbai,SpiceJet,2023,←,4594.09,False,
+Delhi ↔ Mumbai,SpiceJet,2024,←,4122.23,True,avg
+Delhi ↔ Mumbai,SpiceJet,2016,→,5377.41,True,avg
+Delhi ↔ Mumbai,SpiceJet,2017,→,5216.09,True,avg
+Delhi ↔ Mumbai,SpiceJet,2018,→,5000.99,True,avg
+Delhi ↔ Mumbai,SpiceJet,2019,→,4839.67,True,avg
+Delhi ↔ Mumbai,SpiceJet,2020,→,3495.32,True,avg
+Delhi ↔ Mumbai,SpiceJet,2021,→,4409.48,True,avg
+Delhi ↔ Mumbai,SpiceJet,2022,→,4628.25,False,
+Delhi ↔ Mumbai,SpiceJet,2023,→,4674.67,False,
+Delhi ↔ Mumbai,SpiceJet,2024,→,4194.38,True,avg
+Delhi ↔ Mumbai,Vistara,2016,←,8041.92,True,avg
+Delhi ↔ Mumbai,Vistara,2017,←,7800.67,True,avg
+Delhi ↔ Mumbai,Vistara,2018,←,7478.99,True,avg
+Delhi ↔ Mumbai,Vistara,2019,←,7237.73,True,avg
+Delhi ↔ Mumbai,Vistara,2020,←,5227.25,True,avg
+Delhi ↔ Mumbai,Vistara,2021,←,6594.38,True,avg
+Delhi ↔ Mumbai,Vistara,2022,←,6921.75,False,
+Delhi ↔ Mumbai,Vistara,2023,←,6990.78,False,
+Delhi ↔ Mumbai,Vistara,2016,→,8113.99,True,avg
+Delhi ↔ Mumbai,Vistara,2017,→,7870.57,True,avg
+Delhi ↔ Mumbai,Vistara,2018,→,7546.01,True,avg
+Delhi ↔ Mumbai,Vistara,2019,→,7302.59,True,avg
+Delhi ↔ Mumbai,Vistara,2020,→,5274.09,True,avg
+Delhi ↔ Mumbai,Vistara,2021,→,6653.47,True,avg
+Delhi ↔ Mumbai,Vistara,2022,→,6983.66,False,
+Delhi ↔ Mumbai,Vistara,2023,→,7053.54,False,
+Mumbai ↔ Bangalore,Air India,2016,←,8530.49,True,avg
+Mumbai ↔ Bangalore,Air India,2017,←,8274.57,True,avg
+Mumbai ↔ Bangalore,Air India,2018,←,7933.35,True,avg
+Mumbai ↔ Bangalore,Air India,2019,←,7677.44,True,avg
+Mumbai ↔ Bangalore,Air India,2020,←,5544.82,True,avg
+Mumbai ↔ Bangalore,Air India,2021,←,6995.0,True,avg
+Mumbai ↔ Bangalore,Air India,2022,←,7342.07,False,
+Mumbai ↔ Bangalore,Air India,2023,←,7415.67,False,
+Mumbai ↔ Bangalore,Air India,2024,←,6653.78,True,avg
+Mumbai ↔ Bangalore,Air India,2016,→,8933.62,True,avg
+Mumbai ↔ Bangalore,Air India,2017,→,8665.62,True,avg
+Mumbai ↔ Bangalore,Air India,2018,→,8308.27,True,avg
+Mumbai ↔ Bangalore,Air India,2019,→,8040.26,True,avg
+Mumbai ↔ Bangalore,Air India,2020,→,5806.86,True,avg
+Mumbai ↔ Bangalore,Air India,2021,→,7325.57,True,avg
+Mumbai ↔ Bangalore,Air India,2022,→,7689.14,False,
+Mumbai ↔ Bangalore,Air India,2023,→,7766.03,False,
+Mumbai ↔ Bangalore,Air India,2024,→,6968.23,True,avg
+Mumbai ↔ Bangalore,AirAsia,2016,←,3883.37,True,avg
+Mumbai ↔ Bangalore,AirAsia,2017,←,3766.87,True,avg
+Mumbai ↔ Bangalore,AirAsia,2018,←,3611.53,True,avg
+Mumbai ↔ Bangalore,AirAsia,2019,←,3495.03,True,avg
+Mumbai ↔ Bangalore,AirAsia,2020,←,2524.19,True,avg
+Mumbai ↔ Bangalore,AirAsia,2021,←,3184.36,True,avg
+Mumbai ↔ Bangalore,AirAsia,2022,←,3342.39,False,
+Mumbai ↔ Bangalore,AirAsia,2023,←,3375.84,False,
+Mumbai ↔ Bangalore,AirAsia,2016,→,4160.5,True,avg
+Mumbai ↔ Bangalore,AirAsia,2017,→,4035.68,True,avg
+Mumbai ↔ Bangalore,AirAsia,2018,→,3869.26,True,avg
+Mumbai ↔ Bangalore,AirAsia,2019,→,3744.45,True,avg
+Mumbai ↔ Bangalore,AirAsia,2020,→,2704.32,True,avg
+Mumbai ↔ Bangalore,AirAsia,2021,→,3411.61,True,avg
+Mumbai ↔ Bangalore,AirAsia,2022,→,3580.89,False,
+Mumbai ↔ Bangalore,AirAsia,2023,→,3616.77,False,
+Mumbai ↔ Bangalore,IndiGo,2016,←,5939.73,True,avg
+Mumbai ↔ Bangalore,IndiGo,2017,←,5761.54,True,avg
+Mumbai ↔ Bangalore,IndiGo,2018,←,5523.95,True,avg
+Mumbai ↔ Bangalore,IndiGo,2019,←,5345.76,True,avg
+Mumbai ↔ Bangalore,IndiGo,2020,←,3860.82,True,avg
+Mumbai ↔ Bangalore,IndiGo,2021,←,4870.58,True,avg
+Mumbai ↔ Bangalore,IndiGo,2022,←,5112.27,False,
+Mumbai ↔ Bangalore,IndiGo,2023,←,5163.46,False,
+Mumbai ↔ Bangalore,IndiGo,2024,←,4632.99,True,avg
+Mumbai ↔ Bangalore,IndiGo,2016,→,5385.75,True,avg
+Mumbai ↔ Bangalore,IndiGo,2017,→,5224.17,True,avg
+Mumbai ↔ Bangalore,IndiGo,2018,→,5008.74,True,avg
+Mumbai ↔ Bangalore,IndiGo,2019,→,4847.17,True,avg
+Mumbai ↔ Bangalore,IndiGo,2020,→,3500.73,True,avg
+Mumbai ↔ Bangalore,IndiGo,2021,→,4416.31,True,avg
+Mumbai ↔ Bangalore,IndiGo,2022,→,4635.51,False,
+Mumbai ↔ Bangalore,IndiGo,2023,→,4681.83,False,
+Mumbai ↔ Bangalore,IndiGo,2024,→,4200.88,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2016,←,7039.26,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2017,←,6828.08,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2018,←,6546.51,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2019,←,6335.33,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2020,←,4575.52,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2021,←,5772.19,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2022,←,6058.64,False,
+Mumbai ↔ Bangalore,SpiceJet,2023,←,6119.28,False,
+Mumbai ↔ Bangalore,SpiceJet,2024,←,5490.62,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2016,→,6501.31,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2017,→,6306.27,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2018,→,6046.22,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2019,→,5851.18,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2020,→,4225.85,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2021,→,5331.08,True,avg
+Mumbai ↔ Bangalore,SpiceJet,2022,→,5595.71,False,
+Mumbai ↔ Bangalore,SpiceJet,2023,→,5651.56,False,
+Mumbai ↔ Bangalore,SpiceJet,2024,→,5071.02,True,avg
+Mumbai ↔ Bangalore,Vistara,2016,←,8936.13,True,avg
+Mumbai ↔ Bangalore,Vistara,2017,←,8668.05,True,avg
+Mumbai ↔ Bangalore,Vistara,2018,←,8310.6,True,avg
+Mumbai ↔ Bangalore,Vistara,2019,←,8042.52,True,avg
+Mumbai ↔ Bangalore,Vistara,2020,←,5808.49,True,avg
+Mumbai ↔ Bangalore,Vistara,2021,←,7327.63,True,avg
+Mumbai ↔ Bangalore,Vistara,2022,←,7691.23,False,
+Mumbai ↔ Bangalore,Vistara,2023,←,7768.28,False,
+Mumbai ↔ Bangalore,Vistara,2016,→,9086.0,True,avg
+Mumbai ↔ Bangalore,Vistara,2017,→,8813.42,True,avg
+Mumbai ↔ Bangalore,Vistara,2018,→,8449.98,True,avg
+Mumbai ↔ Bangalore,Vistara,2019,→,8177.4,True,avg
+Mumbai ↔ Bangalore,Vistara,2020,→,5905.9,True,avg
+Mumbai ↔ Bangalore,Vistara,2021,→,7450.52,True,avg
+Mumbai ↔ Bangalore,Vistara,2022,→,7820.2,False,
+Mumbai ↔ Bangalore,Vistara,2023,→,7898.58,False,
+Mumbai ↔ Hyderabad,Air India,2016,←,7538.17,True,avg
+Mumbai ↔ Hyderabad,Air India,2017,←,7312.03,True,avg
+Mumbai ↔ Hyderabad,Air India,2018,←,7010.5,True,avg
+Mumbai ↔ Hyderabad,Air India,2019,←,6784.36,True,avg
+Mumbai ↔ Hyderabad,Air India,2020,←,4899.81,True,avg
+Mumbai ↔ Hyderabad,Air India,2021,←,6181.3,True,avg
+Mumbai ↔ Hyderabad,Air India,2022,←,6488.02,False,
+Mumbai ↔ Hyderabad,Air India,2023,←,6553.02,False,
+Mumbai ↔ Hyderabad,Air India,2024,←,5879.78,True,avg
+Mumbai ↔ Hyderabad,Air India,2016,→,7087.4,True,avg
+Mumbai ↔ Hyderabad,Air India,2017,→,6874.78,True,avg
+Mumbai ↔ Hyderabad,Air India,2018,→,6591.29,True,avg
+Mumbai ↔ Hyderabad,Air India,2019,→,6378.66,True,avg
+Mumbai ↔ Hyderabad,Air India,2020,→,4606.81,True,avg
+Mumbai ↔ Hyderabad,Air India,2021,→,5811.67,True,avg
+Mumbai ↔ Hyderabad,Air India,2022,→,6100.05,False,
+Mumbai ↔ Hyderabad,Air India,2023,→,6161.16,False,
+Mumbai ↔ Hyderabad,Air India,2024,→,5528.18,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2016,←,3479.02,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2017,←,3374.65,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2018,←,3235.49,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2019,←,3131.12,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2020,←,2261.37,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2021,←,2852.8,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2022,←,2994.23,False,
+Mumbai ↔ Hyderabad,AirAsia,2023,←,3024.48,False,
+Mumbai ↔ Hyderabad,AirAsia,2016,→,3565.4,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2017,→,3458.44,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2018,→,3315.82,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2019,→,3208.86,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2020,→,2317.51,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2021,→,2923.63,True,avg
+Mumbai ↔ Hyderabad,AirAsia,2022,→,3068.7,False,
+Mumbai ↔ Hyderabad,AirAsia,2023,→,3099.44,False,
+Mumbai ↔ Hyderabad,IndiGo,2016,←,7065.27,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2017,←,6853.31,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2018,←,6570.7,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2019,←,6358.74,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2020,←,4592.43,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2021,←,5793.52,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2022,←,6081.03,False,
+Mumbai ↔ Hyderabad,IndiGo,2023,←,6141.89,False,
+Mumbai ↔ Hyderabad,IndiGo,2024,←,5510.91,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2016,→,6821.18,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2017,→,6616.55,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2018,→,6343.7,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2019,→,6139.07,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2020,→,4433.77,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2021,→,5593.37,True,avg
+Mumbai ↔ Hyderabad,IndiGo,2022,→,5870.95,False,
+Mumbai ↔ Hyderabad,IndiGo,2023,→,5929.7,False,
+Mumbai ↔ Hyderabad,IndiGo,2024,→,5320.52,True,avg
+Mumbai ↔ Hyderabad,Vistara,2016,←,7617.43,True,avg
+Mumbai ↔ Hyderabad,Vistara,2017,←,7388.91,True,avg
+Mumbai ↔ Hyderabad,Vistara,2018,←,7084.21,True,avg
+Mumbai ↔ Hyderabad,Vistara,2019,←,6855.69,True,avg
+Mumbai ↔ Hyderabad,Vistara,2020,←,4951.33,True,avg
+Mumbai ↔ Hyderabad,Vistara,2021,←,6246.3,True,avg
+Mumbai ↔ Hyderabad,Vistara,2022,←,6556.25,False,
+Mumbai ↔ Hyderabad,Vistara,2023,←,6621.91,False,
+Mumbai ↔ Hyderabad,Vistara,2016,→,7240.08,True,avg
+Mumbai ↔ Hyderabad,Vistara,2017,→,7022.87,True,avg
+Mumbai ↔ Hyderabad,Vistara,2018,→,6733.27,True,avg
+Mumbai ↔ Hyderabad,Vistara,2019,→,6516.07,True,avg
+Mumbai ↔ Hyderabad,Vistara,2020,→,4706.05,True,avg
+Mumbai ↔ Hyderabad,Vistara,2021,→,5936.86,True,avg
+Mumbai ↔ Hyderabad,Vistara,2022,→,6231.47,False,
+Mumbai ↔ Hyderabad,Vistara,2023,→,6293.86,False,
