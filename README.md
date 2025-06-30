@@ -66,8 +66,8 @@ IATA fare indices for interpolation reference
 Future Scope
 This repository sets the groundwork for more advanced analysis, including:
 
-✳️ Time series modeling
+ Time series modeling
 
-🤖 Machine learning-based fare prediction
+ Machine learning-based fare prediction
 
-📉 Seasonal pricing trends
+ Seasonal pricing trends
